@@ -20,10 +20,13 @@ Hello ~~markdown~~ 刪除線
 sdsdsd
 sdsdsdsd
 sdsdsds
-...
+```
 
 ```python
 def hello():
     print('hi')
 hello()
-...
+```
+
+---
+![](./11.jpg)
