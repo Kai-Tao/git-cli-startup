@@ -16,8 +16,8 @@ Hello ~~markdown~~ 刪除線
 <https://google.com>
 [Google](https://google.com)
 
-...
+```
 sdsdsd
 sdsdsdsd
 sdsdsds
-...
+```
